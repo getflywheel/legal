@@ -8,5 +8,6 @@ This repo contains the following docs:
 * [Privacy Policy](privacy.md)
 * [Acceptable Use Policy](aup.md)
 * [Service Level Agreement](sla.md)
+* [DMCA Procedures](dmca.md)
 
 If you have any questions, please [contact us](http://getflywheel.com/help).
