@@ -1,31 +1,16 @@
-# Terms of Service
+## TERMS OF SERVICE AGREEMENT
 
-This Website Hosting Agreement (“Agreement”) is effective as of the
-11th day of February, 2013 (“Effective Date”), by and between [insert
-customer name], a [insert entity type] (“Client”) and Fancy Chap, LLC
-d/b/a Flywheel, a Nebraska limited liability company (“Host”). Client
-and Host are sometimes referred to herein collectively as the
-“parties” or individually as a “party.”
+*Last Modified: August 1st, 2014*
 
-By registering for an account with your email address you are
-agreeing to the Terms of Service and all other clauses listed here
-forth. If you do not wish to accept these terms you can simply
-deactivate your account and not continue using it.
+Please read this Terms of Service Agreement carefully, as it contains
+important information regarding your legal rights and remedies.
 
-## RECITALS
-
-WHEREAS, Host owns and operates hardware and software for hosting
-websites, and has substantial knowledge, experience and expertise in
-management and maintenance of websites; and
-
-WHEREAS, Client desires to engage Host, and Host desires to be
-engaged by Client to provide such services subject to the terms and
-conditions set forth below.
-
-NOW, THEREFORE, for and in consideration of the mutual covenants and
-agreements contained herein, Client and Host agree as follows:
-
-# Terms and Conditions
+This Terms of Service Agreement ("Agreement") is entered into by and
+between Fancy Chap, Inc. d/b/a Flywheel, a Delaware corporation
+("Host") and you ("Client"). This Agreement is made effective as of
+the date of your use of this website ("Site") or the date of
+electronic acceptance. Host and Client are sometimes referred to
+herein collectively as the "parties" or individually as a "party."
 
 ## 1. Services.
 
@@ -101,8 +86,8 @@ the plan that includes the appropriate storage amounts.
 
 ### 1.5 Updates
 
-Updates to the Website shall be the sole responsibility of the 
-Client. Host shall provide the necessary SFTP access to allow Client 
+Updates to the Website shall be the sole responsibility of the
+Client. Host shall provide the necessary SFTP access to allow Client
 to make the updates.
 
 ## 2. License and Proprietary Rights.
@@ -143,7 +128,7 @@ Each party agrees that during the course of this Agreement,
 information that is confidential or proprietary may be disclosed to
 the other party, including, but not limited to, software, technical
 processes and formulas, source codes, product designs, sales, cost
-and other unpub­lished financial information, product and business
+and other unpublished financial information, product and business
 plans, advertising revenues, usage rates, advertising relationships,
 projections, and marketing data (“Confidential Information”).
 Confidential Information shall not include information that the
@@ -180,10 +165,26 @@ infringe or violate any right of any third party.
 Host does not intend to and shall have no obligation to
 systematically monitor the content that is submitted, stored,
 distributed or disseminated by Client via the Website. An Acceptable
-Use Policy (“AUP”) is in effect for the Hosting Services [provide
-link to the AUP]. Any violation of the AUP may result in the
-immediate cancellation or suspension of any or all Services without
-warning.
+Use Policy ("AUP") is in effect for the Hosting Services. Any
+violation of the AUP may result in the immediate cancellation or
+suspension of any or all Services without warning.
+
+### 3.3 Copyright
+
+Host respects the intellectual property of others and requests that
+Client does too. Host shall respond to notices of alleged copyright
+infringement if they comply with the law, and such notices should be
+reported using Host's DMCA process. We reserve the right to delete or
+disable content alleged to be infringing and terminate accounts of
+repeat infringers. Host's designated agent for notice of alleged
+copyright infringement on the Services is:
+
+Copyright Agent
+
+> Fancy Chap, Inc.
+> 1111 N. 13th St #208
+> Omaha, NE 68102
+> dmca@getflywheel.com
 
 ## 4. Fees and Taxes.
 
@@ -285,7 +286,7 @@ NO WARRANTIES HEREUNDER, AND HOST EXPRESSLY DISCLAIMS ALL OTHER
 WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION,
 WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 
-## 6. Indemnification.
+## 6 Indemnification.
 
 ### 6.1 Indemnification by Client
 
@@ -320,7 +321,7 @@ of the foregoing paragraphs. The indemnified party may, at its own
 expense, assist in the defense if it so chooses, provided that the
 indemnifying party shall control such defense and all negotiations
 relative to the settlement of any such claim and further provided
-that any settle­ment intended to bind the indemnified party shall not
+that any settlement intended to bind the indemnified party shall not
 be final without the indemnified party's written consent, which shall
 not be unreasonably withheld.
 
@@ -458,11 +459,15 @@ delivery, upon receipt thereof; (ii) if by e-mail, upon confirmation
 thereof; or (iii) if by next day delivery service, upon such
 delivery. All notices to Host shall be addressed as follows:
 
-Fancy Chap, LLC
+> Fancy Chap, Inc.
+> Attention: Dusty Davidson
+> 1111 N. 13th St #208
+> Omaha, NE 68102
 
-[insert address]
+or: 
 
-Attention:  Dusty Davidson
+> Fax: (866) 877–9019
+> Attention:  Dusty Davidson
 
 All notices to client shall be addressed to the address on file with
 Host, which shall be updated, as needed, by Client.
@@ -509,7 +514,12 @@ shall survive the termination or expiration of this Agreement.
 Client shall designate one (1) person who will act as the primary
 liaison for all communications regarding the Services.
 
-### 9.17 Electronic Contracting
+### 9.17 Reference
+
+Client is advised to print a copy of this Agreement for its records,
+as the Agreement may need be referenced from time to time.
+
+### 9.18 Electronic Contracting
 
 Host and Client desire to facilitate certain transactions pursuant to
 this Agreement by exchanging documents, records and signatures
@@ -519,14 +529,5 @@ procedures established by Host and governed by the applicable
 provisions of the Uniform Electronic Transactions Act as adopted in
 the State of Nebraska.
 
-### 9.18 Reference
+## By clicking the "YES" button, you agree to be bound by the terms of this Agreement and have used your electronic signature to agree to the terms of this Agreement
 
-Client is advised to print a copy of this Agreement for its records,
-as the Agreement may need be referenced from time to time.
-
-IN WITNESS WHEREOF, the parties have caused this Agreement to be
-executed as of the date set forth above.
-
-**By creating an account with Flywheel, you agree to be bound by the
-terms of this Agreement and have used your electronic signature to
-agree to the terms of this Agreement.**
