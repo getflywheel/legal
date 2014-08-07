@@ -1,6 +1,6 @@
 ## TERMS OF SERVICE AGREEMENT
 
-*Last Modified: August 1st, 2014*
+*Last Modified: August 6th, 2014*
 
 Please read this Terms of Service Agreement carefully, as it contains
 important information regarding your legal rights and remedies.
@@ -48,29 +48,22 @@ the Hosting Services. Host maintains system backups that are intended
 only to recover from system failure. The system backups are not
 intended for restoration of files to individual sites.
 
-### 1.3 Availability of Website
+### 1.3 Service Levels
 
-Unless otherwise indicated on Schedule A hereto, the Website shall be
-accessible to third parties via the Internet twenty-four (24) hours a
-day, seven (7) days a week, except for scheduled maintenance and
-required repairs, and except for any loss or interruption of Hosting
-Services due to causes beyond the control of Host or which are not
-reasonably foreseeable by Host, including, but not limited to,
-interruption or failure of telecommunication or digital transmission
-links and Internet slow-downs or failures. In the event of any loss
-or interruption of Hosting Services, Client's sole and exclusive
-remedy and Host's sole and exclusive liability for any loss or
-interruption of Hosting Services shall be as follows: for loss or
-interruption of Hosting Services which is due to (i) causes other
-than scheduled maintenance and required repairs; (ii) causes beyond
-the control of Host; or (iii) causes which are not reasonably
-foreseeable by Host, including, but not limited to, interruption or
-failure of telecommunication or digital transmission links and
-Internet slow-downs or failures, which loss or interruption of
-Hosting Services exceeds a continual period of twenty-four (24)
-hours, Client shall receive a credit against future Hosting Services
-equal to a pro rata portion of Hosting Services fees for the period
-of downtime.
+Except as otherwise agreed to by the parties, at all times during the
+term of this Agreement, Host's performance of the Services shall meet
+or exceed the service levels, response times, and other performance
+criteria set forth on Schedule B attached hereto (the "Service
+Levels"). Client acknowledges that the Service Levels do not apply to
+any loss or interruption of Hosting Services due to causes beyond the
+control of Host or which are not reasonably foreseeable by Host,
+including, but not limited to, interruption or failure of
+telecommunication or digital transmission links and Internet
+slow-downs or failures.  In the event of any loss or interruption of
+Hosting Services, Client's sole and exclusive remedy and Host's sole
+and exclusive liability for any loss or interruption of Hosting
+Services shall be receipt of a credit against future Hosting Services
+as set forth under the Service Level Agreement.
 
 ### 1.4 Additional Storage and Transfer
 
