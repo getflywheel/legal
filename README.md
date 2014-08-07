@@ -5,3 +5,5 @@ These are copies of the various Flywheel legal documents. The official copies re
 This repo contains the following docs:
 
 * Terms of Service
+* Privacy Policy
+* Acceptable Use Policy
