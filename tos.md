@@ -1,6 +1,6 @@
 ## TERMS OF SERVICE AGREEMENT
 
-*Last Modified: August 6th, 2014*
+*Last Modified: March 18th, 2015*
 
 Please read this Terms of Service Agreement carefully, as it contains
 important information regarding your legal rights and remedies.
@@ -175,7 +175,7 @@ copyright infringement on the Services is:
 Copyright Agent
 
 > Fancy Chap, Inc.
-> 1111 N. 13th St #208
+> 1405 Harney St #201
 > Omaha, NE 68102
 > dmca@getflywheel.com
 
@@ -454,7 +454,7 @@ delivery. All notices to Host shall be addressed as follows:
 
 > Fancy Chap, Inc.
 > Attention: Dusty Davidson
-> 1111 N. 13th St #208
+> 1405 Harney St #201
 > Omaha, NE 68102
 
 or: 
