@@ -24,7 +24,7 @@ The security of your Personal Information is important to us, but remember that 
 
 ## EU-U.S. Privacy Shield Framework
 
-We are a voluntary participant in the EU-U.S. Privacy Shield Framework ("EU Framework"), which you can learn more about at the U.S. Department of Commerce's Privacy Shield site at https://www.privacyshield.gov. We are committed to the Principles of the EU Framework and we subject all Personal Information we collect to those Principles. As a participant, we are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission, the Department of Transportation, and any other authorized U.S. agency.
+We are a voluntary participant in the EU-U.S. Privacy Shield Framework ("EU Framework"), which you can learn more about at the U.S. Department of Commerce's Privacy Shield site at https://www.privacyshield.gov. We are committed to the Principles of the EU Framework and we subject all Personal Information we collect to those Principles. As a participant, we are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission and any other authorized U.S. agency.
 
 We may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. In addition, we comply with the onward transfer liability provisions regarding your Personal Information.
 
@@ -39,6 +39,8 @@ The list of participants in the EU Framework is available at https://www.privacy
 ## Swiss-U.S. Privacy Shield
 
 We comply with the Swiss-U.S. Privacy Shield as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from Switzerland. We have certified that we adhere to the Swiss-U.S. Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability. To learn more about the Swiss-U.S. Privacy Shield and to view our certification, visit https://www.export.gov/safeharbor_swiss.
+
+Our organization commits to cooperate with EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) and comply with the advice given by such authorities with regard to human resources data transferred from the EU and Switzerland in the context of the employment relationship.
 
 ## Links To Other Sites
 
