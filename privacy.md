@@ -30,7 +30,7 @@ We may be required to disclose Personal Information in response to lawful reques
 
 You have the right to access Personal Information we have collected about you and can request us to make update or corrections to your Personal Information.
 
-If you have a complaint about how we collect or use your Personal Information, contact our free, U.S.-based alternative dispute resolution provider at https://www.trustarc.com/consumer-resources/dispute-resolution/.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
 You may also, under certain conditions, invoke binding arbitration. The process for binding arbitration is described at the Privacy Shield site: https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint.
 
