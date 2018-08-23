@@ -72,7 +72,7 @@ The list of participants in the EU Framework is available at [https://www.privac
 
 ## Swiss-U.S. Privacy Shield
 
-We comply with the Swiss-U.S. Privacy Shield as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from Switzerland. We have certified that we adhere to the Swiss-U.S. Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability. To learn more about the Swiss-U.S. Privacy Shield and to view our certification, visit https://www.export.gov/safeharbor_swiss.
+We comply with the Swiss-U.S. Privacy Shield as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from Switzerland. We have certified that we adhere to the Swiss-U.S. Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability. To learn more about the Swiss-U.S. Privacy Shield and to view our certification, visit [https://www.privacyshield.gov] (https://www.privacyshield.gov).
 
 ## Third Party Service Providers
 
