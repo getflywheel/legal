@@ -1,10 +1,10 @@
 # Privacy Policy
 
-Fancy Chap, Inc. (“us”, “we”, or “our”) operates http://www.getflywheel.com (the “Site”).
+Fancy Chap, Inc. (“us”, “we”, or “our”) operates https://www.getflywheel.com (the “Site”).
 
 This Privacy Policy informs you of our policies regarding the collection, use and disclosure of personally identiﬁable information we receive from users of the Site. It also describes the choices available to you regarding our use of your Personal Information (also known as "personal data") and how you can access and update that information.  Personal Information is information about you that can be used, directly or indirectly, to identify you (e.g., name, email address, mailing address, date of birth).
 
-We use your Personal Information only for the purposes of registration, billing, and improving the Site. By using the Site, you agree to the collection and use of Personal Information in accordance with this Privacy Policy. Unless otherwise deﬁned in this Privacy Policy, capitalized terms used herein shall have the same meanings as in our [Terms of Service](http://getflywheel.com/terms-of-service/).
+We use your Personal Information only for the purposes of registration, billing, and improving the Site. By using the Site, you agree to the collection and use of Personal Information in accordance with this Privacy Policy. Unless otherwise deﬁned in this Privacy Policy, capitalized terms used herein shall have the same meanings as in our [Terms of Service](https://getflywheel.com/legal/terms-service/).
 
 ## Information We Collect
 
@@ -60,11 +60,15 @@ We are a voluntary participant in the EU-U.S. Privacy Shield Framework ("EU Fram
 
 We may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. In addition, we comply with the onward transfer liability provisions regarding your Personal Information.
 
-You have the right to access Personal Information we have collected about you and can request us to make update or corrections to your Personal Information.
+You have the right to access Personal Information we have collected about you and can request us to make updates or corrections to your Personal Information. You also have the right to request that we delete your data if you believe it has been processed in violation of the EU Framework principles.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).
+at In compliance with the Privacy Shield principles, we commit to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at [privacy@getflywheel.com](mailto:privacy@getflywheel.com).
 
-You may also, under certain conditions, invoke binding arbitration. The process for binding arbitration is described at the Privacy Shield site: [https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint). 
+We are committed to cooperate with EU data protection authorities ("DPAs") and to comply with the advice given by such authorities with regards to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship.
+
+Further, we are committed to refer unresolved Privacy Shield complaints to TrustArc, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please visit https://www.trustarc.com/consumer-resources/dispute-resolution/. for more information or to file a complaint. The services of TrustArc are provided at no cost to you.
+
+You may also, under certain conditions, invoke binding arbitration. The process for binding arbitration is described at the Privacy Shield site: [https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint).
 
 The list of participants in the EU Framework is available at [https://www.privacyshield.gov/list](https://www.privacyshield.gov/list).
 
@@ -73,6 +77,10 @@ The list of participants in the EU Framework is available at [https://www.privac
 ## Swiss-U.S. Privacy Shield
 
 We comply with the Swiss-U.S. Privacy Shield as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from Switzerland. We have certified that we adhere to the Swiss-U.S. Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability. To learn more about the Swiss-U.S. Privacy Shield and to view our certification, visit [https://www.privacyshield.gov] (https://www.privacyshield.gov).
+
+In compliance with the Privacy Shield principles, we commit to resolve complaints about our collection or use of your personal information. Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at [privacy@getflywheel.com](mailto:privacy@getflywheel.com).
+
+We are committed to cooperate with EU data protection authorities ("DPAs") and to comply with the advice given by such authorities with regards to unresolved Privacy Shield complaints concerning human resources data transferred from Switzerland in the context of the employment relationship.
 
 ## Third Party Service Providers
 
@@ -112,4 +120,4 @@ Our services are not targeted to, intended to be consumed by or designed to enti
 
 If you have any questions about this Privacy Policy or any complaints about how we use your Personal Information, please [contact us](mailto:hello@getflywheel.com).
 
-This Privacy Policy was last modified on May 24th, 2018.
+This Privacy Policy was last modified on September 17th, 2018.
