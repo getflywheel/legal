@@ -2,7 +2,7 @@
 
 *Last Modified: July 24th, 2018*
 
-IMPORTANT – THIS IS A BINDING LEGAL AGREEMENT.  PLEASE READ CAREFULLY BEFORE CLICKING THE “I ACCEPT” BUTTON. IF YOU DO NOT AGREE TO THIS AGREEMENT, YOU MAY NOT SUBMIT AN APPLICATION TO PARTICIPATE IN THE AFFILIATE PROGRAM.
+IMPORTANT – THIS IS A BINDING LEGAL AGREEMENT. PLEASE READ CAREFULLY BEFORE CLICKING THE “I ACCEPT” BUTTON. IF YOU DO NOT AGREE TO THIS AGREEMENT, YOU MAY NOT SUBMIT AN APPLICATION TO PARTICIPATE IN THE AFFILIATE PROGRAM.
 
 This Affiliate Program Agreement ("Agreement") is entered into between Fancy Chap, Inc., a Delaware corporate doing business under the trade name "Flywheel" ("Flywheel") and the individual or entity designated as the “Affiliate” on the [Affiliate Program Application Form] ("Application") completed in connection with this Agreement (“Affiliate”). This Agreement is effective only upon Flywheel's written acceptance of Affiliate's Application (such date of acceptance is referred to as the “Effective Date”).
 
@@ -20,7 +20,7 @@ As of the Effective Date (only upon written approval of Affiliate's Application)
 
 (a)	Affiliate shall place a hyperlink on its website, in a format approved by Flywheel, that when clicked on redirects the visitor to the Flywheel website (a "Link").
 
-Affiliate will not utilize any paid advertising mediums, including pay-per-click, network display banners, or comparison shopping engines, without submitting a written marketing plan to Flywheel and obtaining Flywheel's written approval.  Affiliate will not be allowed to bid on any iteration of the following keywords for the purposes of generating a Referral Fee:
+Affiliate will not utilize any paid advertising mediums, including pay-per-click, network display banners, or comparison shopping engines, without submitting a written marketing plan to Flywheel and obtaining Flywheel's written approval. Affiliate will not be allowed to bid on any iteration of the following keywords for the purposes of generating a Referral Fee:
 * Flywheel
 * Flywheel Hosting
 * Flywheel WordPress Hosting
@@ -33,21 +33,21 @@ Affiliate agrees to provide keyword lists, ads, advertising cookies, and any oth
 
 (c)	Affiliate shall not make any promises or representations or give any warranties, guarantees or indemnities in respect of the Flywheel Services, except as such are contained in the then-current Flywheel Terms of Service or such other customer agreement as may be agreed-upon by Flywheel related to the Flywheel Services a “Customer Agreement”) or as otherwise expressly authorized by Flywheel in writing.
 
-(d)	Affiliate shall perform the Referral Services in a manner that will reflect favorably on the Flywheel Services and on the good name and reputation of Flywheel, and shall not alone or with others participate in any illegal, deceptive, misleading, or unethical practices, including but not limited to disparagement of the Flywheel Services or Flywheel. Affiliate further agrees to refrain from performing Referral Services using bulk email messages (also known as “spam”).  Affiliate’s failure to abide by this Section 1(d), the CAN-SPAM Act, and all applicable laws relating to email communications, in any manner, shall be deemed a material breach of this Agreement by Affiliate and will result in the forfeiture of any and all rights Affiliate may have to any Referral Fees (as that term is defined below) and the termination of this Agreement.
+(d)	Affiliate shall perform the Referral Services in a manner that will reflect favorably on the Flywheel Services and on the good name and reputation of Flywheel, and shall not alone or with others participate in any illegal, deceptive, misleading, or unethical practices, including but not limited to disparagement of the Flywheel Services or Flywheel. Affiliate further agrees to refrain from performing Referral Services using bulk email messages (also known as “spam”). Affiliate’s failure to abide by this Section 1(d), the CAN-SPAM Act, and all applicable laws relating to email communications, in any manner, shall be deemed a material breach of this Agreement by Affiliate and will result in the forfeiture of any and all rights Affiliate may have to any Referral Fees (as that term is defined below) and the termination of this Agreement.
 
 (e) A Referral Fee will not be payable for any activity occurring before an Affiliate Program Application is formally accepted. Any previously referred or pending plans will be ineligible for a Referral Fee.
 
 (f) Affiliate agrees to comply with applicable laws, regulations, and guidelines concerning advertising and marketing, including without limitation, the Federal Trade Commission (FTC) Endorsement Guides, which require disclosure of material connections between advertisers and endorsers. This means that all Affiliate sites (e.g., directories, review/rating websites, blogs, and other websites) and any email or collateral that provide an endorsement or assessment of Flywheel’s Services must prominently disclose the fact that Affiliate receives compensation for Referred Customers.
 
-(g) Affiliate agrees to comply with all applicable data protection laws regarding the transmission of data exported to or from the United States or the country in which Affiliate resides, including without limitation, the General Data Protection Regulation 2016/679 (the “GDPR”). Affiliate agrees to promptly assist Flywheel in complying with any data subject rights request under the GDPR that Flywheel may receive from any individuals referred to Flywheel by Affiliate.  Affiliate further agrees to promptly assist Flywheel in complying with any duties to cooperate with supervisory authorities under the GDPR.
+(g) Affiliate agrees to comply with all applicable data protection laws regarding the transmission of data exported to or from the United States or the country in which Affiliate resides, including without limitation, the General Data Protection Regulation 2016/679 (the “GDPR”). Affiliate agrees to promptly assist Flywheel in complying with any data subject rights request under the GDPR that Flywheel may receive from any individuals referred to Flywheel by Affiliate. Affiliate further agrees to promptly assist Flywheel in complying with any duties to cooperate with supervisory authorities under the GDPR.
 
 ### 2. REFERRAL FEE
 
 (a) In consideration of Affiliate’s performance of Referral Services hereunder, Flywheel agrees to pay Affiliate a referral fee (“Referral Fee”) in accordance with Flywheel’s current affiliate pricing schedule, available at [http://getflywheel.com/affiliates](http://getflywheel.com/affiliates), with respect to each Customer that is referred to Flywheel by Affiliate (a “Referred Customer”). For purposes of this Agreement, a Customer will be considered a Referred Customer only if:
 
-   (1) the Customer is redirected to the Flywheel website through the Affiliate’s Link and such Customer creates a new customer account with Flywheel and accepts the then-current Flywheel Customer Agreement; or
+  (1) the Customer is redirected to the Flywheel website through the Affiliate’s Link and such Customer creates a new customer account with Flywheel and accepts the then-current Flywheel Customer Agreement; or
 
-   (2) the Affiliate creates an account and utilizes the Flywheel Services on behalf of a Customer of the Affiliate and such Customer enters into a Customer Agreement with Flywheel. Affiliate may not remain on the account as the sole owner.  The parties hereto expressly acknowledge and agree that ownership of the account must be transferred to the Customer for the Referral Fee to be paid. 
+  (2) the Affiliate creates an account and utilizes the Flywheel Services on behalf of a Customer of the Affiliate and such Customer enters into a Customer Agreement with Flywheel. Affiliate may not remain on the account as the sole owner. The parties hereto expressly acknowledge and agree that ownership of the account must be transferred to the Customer for the Referral Fee to be paid. 
 
 (b) Affiliate agrees and acknowledges that Flywheel’s obligation to pay Affiliate is contingent upon Flywheel receiving payment from the Referred Customer in accordance with the Customer Agreement. The Referred Customer's account with Flywheel must be in good standing at the time of payout or any Referral Fee will be forfeited. Additionally, if any Referred Customer account is determined to be fake or fraudulent by Flywheel in its sole discretion, the Referral Fee will be forfeited. The Referral Fee shall be Affiliate’s sole compensation under this Agreement and Affiliate shall have no right to receive any additional commission, license fee, expense reimbursement or other payment in connection with this Agreement. Affiliate’s right to receive Referral Fees is subject to and limited by the termination rights under Section 4.
 
@@ -57,12 +57,11 @@ Affiliate agrees to provide keyword lists, ads, advertising cookies, and any oth
 
 ### 3. INDEPENDENT CONTRACTOR
 
-The relationship between the parties hereunder is that of independent contractors.  Nothing in this Agreement shall be construed to create an agency, employment, joint venture, or partnership relationship. Neither party shall have the right to incur any liabilities or obligations on behalf of the other party.
+The relationship between the parties hereunder is that of independent contractors. Nothing in this Agreement shall be construed to create an agency, employment, joint venture, or partnership relationship. Neither party shall have the right to incur any liabilities or obligations on behalf of the other party.
 
 ### 4. TERM & TERMINATION
 
-The term of this Agreement shall commence as of the Effective Date and shall continue perpetually until and unless terminated pursuant to this Section 4. Flywheel may in its discretion terminate the Flywheel Affiliate Program or this Agreement at any time without formal notice. Affiliate may terminate this Agreement at any time by providing written notice to Flywheel and promptly returning all Flywheel products or materials in Affiliate’s possession (if any). Upon the effective date of such termination,
-Affiliate’s performance of Referral Services shall immediately cease and Flywheel shall have no further obligations to Affiliate under this Agreement.  This may include the cancellation of pending or prior earned Referral Fees if Flywheel determines they were generated falsely or fraudulently. Sections 5(a), 6 and 7 shall survive termination of this Agreement.
+The term of this Agreement shall commence as of the Effective Date and shall continue perpetually until and unless terminated pursuant to this Section 4. Flywheel may in its discretion terminate the Flywheel Affiliate Program or this Agreement at any time without formal notice. Affiliate may terminate this Agreement at any time by providing written notice to Flywheel and promptly returning all Flywheel products or materials in Affiliate's possession (if any). Upon the effective date of such termination, Affiliate's performance of Referral Services shall immediately cease and Flywheel shall have no further obligations to Affiliate under this Agreement. This may include the cancellation of pending or prior earned Referral Fees if Flywheel determines they were generated falsely or fraudulently. Sections 5(a), 6 and 7 shall survive termination of this Agreement.
 
 ### 5. PROPRIETARY RIGHTS
 
