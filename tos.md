@@ -228,4 +228,4 @@ Client is advised to print a copy of this Agreement for its records, as the Agre
 
 Flywheel and Client desire to facilitate certain transactions pursuant to this Agreement by exchanging documents, records and signatures electronically or by utilizing electronic agents.  The use of electronic facilities or agents shall be in accordance with procedures established by Flywheel and governed by the applicable provisions of the Uniform Electronic Transactions Act as adopted in the State of Nebraska.
 
-##By clicking the "YES" button, you agree to be bound by the terms of this Agreement and have used your electronic signature to agree to the terms of this Agreement.
+## By clicking the "YES" button, you agree to be bound by the terms of this Agreement and have used your electronic signature to agree to the terms of this Agreement.
